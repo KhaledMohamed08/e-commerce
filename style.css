@@ -1,4 +1,25 @@
 *{
     margin: 0;
     padding: 0;
+    transition: all .3s;
+}
+body{
+    background-color: black;
+    color: white;
+}
+.links{
+    width: 1300px;
+    margin: 400px auto;
+}
+.links a{
+    margin: 10px;
+    padding: 10px;
+    color: white;
+    font-size: 50px;
+    text-decoration: none;
+    border: 10px white double;
+}
+.links a:hover{
+    color: green;
+    border-color: green;
 }
