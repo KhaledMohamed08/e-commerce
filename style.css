@@ -8,14 +8,14 @@ body{
     color: white;
 }
 .links{
-    width: 1300px;
+    width: 1500px;
     margin: 400px auto;
 }
 .links a{
     margin: 10px;
     padding: 10px;
     color: white;
-    font-size: 50px;
+    font-size: 40px;
     text-decoration: none;
     border: 10px white double;
 }
